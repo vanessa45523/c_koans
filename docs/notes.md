@@ -8,3 +8,4 @@ Notes and usage details for c_koans.
 - fix a small wording issue
 - fix a small wording issue
 - clarify the setup steps
+- link the usage section
