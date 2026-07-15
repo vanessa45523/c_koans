@@ -26,3 +26,4 @@ Notes and usage details for c_koans.
 - add a note about the defaults
 - add a note about the defaults
 - link the usage section
+- clarify the setup steps
